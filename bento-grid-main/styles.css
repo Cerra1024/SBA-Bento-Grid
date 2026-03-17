@@ -1,34 +1,50 @@
 body {
     font-family: 'DM sans' sans-serif;
     background-color: hsl(212, 45%, 89%);
-    margin: 0;
-    padding: 0;
+   
 }
 
-.main-card {
-  background-color: hsl(256, 67%, 59%);
+.card {
+    border-radius: 20px;
+    border: none;
+
 }
 
-.card-yellow {
-  background-color: hsl(39, 100%, 71%);
+body .main-card,
+body .card-purple, 
+body .card-dark-purple {
+  background-color: #7630f7;
+  color: #ffffff;
 }
 
-.card-light-purple {
-  background-color: hsl(254, 88%, 90%);
+body .card-yellow {
+  background-color: #ffcb5b;
 }
 
-.card-purple {
-  background-color: hsl(254, 67%, 83%);
+body .card-light-purple {
+  background-color: #dacffc;
 }
 
-.card-dark-purple {
-  background-color: hsl(256, 67%, 45%);
+body .card-light-cream {
+  background-color: #f9f4e8;
 }
 
-.card-purple {
-  background-color: hsl(254, 67%, 83%);
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
 }
 
-.card-dark-purple {
-  background-color: hsl(256, 67%, 45%);
+.card-light-cream img {
+  margin-top: auto;
+  padding-top: 2rem;
+}
+
+.text-purple {
+  color: #7630f7;
+}
+
+.text-yellow {
+  color: #ffcb5b;
 }
