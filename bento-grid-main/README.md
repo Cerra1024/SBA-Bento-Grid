@@ -1,10 +1,24 @@
 # Frontend Mentor - Bento grid
+Link to chosen challenge: https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj
 
-![Design preview for the Bento grid coding challenge](./preview.jpg)
 
-## Welcome! 👋
+## Overview
 
-Thanks for checking out this front-end coding challenge.
+A bento style dashbord layout build using Bootstrap and custom CSS.
+
+## Built With
+To complete this project I used 
+-semantic HTML5
+-Bootstrap
+-Custom CSS
+-Google fonts
+-style guide
+
+### Challeges faces
+-Align Cards and getting accurate spacing .
+---------------------------
+
+
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
