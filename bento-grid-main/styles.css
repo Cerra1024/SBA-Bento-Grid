@@ -1,0 +1,34 @@
+body {
+    font-family: 'DM sans' sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    padding: 0;
+}
+
+.main-card {
+  background-color: hsl(256, 67%, 59%);
+}
+
+.card-yellow {
+  background-color: hsl(39, 100%, 71%);
+}
+
+.card-light-purple {
+  background-color: hsl(254, 88%, 90%);
+}
+
+.card-purple {
+  background-color: hsl(254, 67%, 83%);
+}
+
+.card-dark-purple {
+  background-color: hsl(256, 67%, 45%);
+}
+
+.card-purple {
+  background-color: hsl(254, 67%, 83%);
+}
+
+.card-dark-purple {
+  background-color: hsl(256, 67%, 45%);
+}
